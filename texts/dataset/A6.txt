@@ -1,0 +1,21 @@
+Kurt Friedrich Gödel (/????rd?l/;[2] German: [?k???t ??ø?dl?] (About this soundlisten); April 28, 1906 – January 14, 1978) was a logician, mathematician, and philosopher. Considered along with Aristotle and Gottlob Frege to be one of the most significant logicians in history, Gödel had an immense effect upon scientific and philosophical thinking in the 20th century, a time when others such as Bertrand Russell,[3] Alfred North Whitehead,[3] and David Hilbert were using logic and set theory to investigate the foundations of mathematics, building on earlier work by the likes of Richard Dedekind, Georg Cantor and Gottlob Frege.
+
+Gödel published his first incompleteness theorem in 1931 when he was 25 years old, one year after finishing his doctorate at the University of Vienna. The first incompleteness theorem states that for any ?-consistent recursive axiomatic system powerful enough to describe the arithmetic of the natural numbers (for example Peano arithmetic), there are true propositions about the natural numbers that can be neither proved nor disproved from the axioms.[4] To prove this, Gödel developed a technique now known as Gödel numbering, which codes formal expressions as natural numbers. The second incompleteness theorem, which follows from the first, states that the system cannot prove its own consistency.[5]
+
+Gödel also showed that neither the axiom of choice nor the continuum hypothesis can be disproved from the accepted Zermelo-Fraenkel set theory, assuming that its axioms are consistent. The former result opened the door for mathematicians to assume the axiom of choice in their proofs. He also made important contributions to proof theory by clarifying the connections between classical logic, intuitionistic logic, and modal logic.
+
+Incompleteness theorem
+Kurt Gödel's achievement in modern logic is singular and monumental—indeed it is more than a monument, it is a landmark which will remain visible far in space and time. ... The subject of logic has certainly completely changed its nature and possibilities with Gödel's achievement.
+
+—?John von Neumann[16]
+In 1930 Gödel attended the Second Conference on the Epistemology of the Exact Sciences, held in Königsberg, 5–7 September. Here he delivered his incompleteness theorems.[17]
+
+Gödel published his incompleteness theorems in Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme (called in English "On Formally Undecidable Propositions of Principia Mathematica and Related Systems"). In that article, he proved for any computable axiomatic system that is powerful enough to describe the arithmetic of the natural numbers (e.g., the Peano axioms or Zermelo–Fraenkel set theory with the axiom of choice), that:
+
+If a (logical or axiomatic formal) system is omega-consistent, it cannot be syntactically complete.
+The consistency of axioms cannot be proved within their own system.
+These theorems ended a half-century of attempts, beginning with the work of Frege and culminating in Principia Mathematica and Hilbert's formalism, to find a set of axioms sufficient for all mathematics.
+
+In hindsight, the basic idea at the heart of the incompleteness theorem is rather simple. Gödel essentially constructed a formula that claims that it is unprovable in a given formal system. If it were provable, it would be false. Thus there will always be at least one true but unprovable statement. That is, for any computably enumerable set of axioms for arithmetic (that is, a set that can in principle be printed out by an idealized computer with unlimited resources), there is a formula that is true of arithmetic, but which is not provable in that system. To make this precise, however, Gödel needed to produce a method to encode (as natural numbers) statements, proofs, and the concept of provability; he did this using a process known as Gödel numbering.
+
+In his two-page paper Zum intuitionistischen Aussagenkalkül (1932) Gödel refuted the finite-valuedness of intuitionistic logic. In the proof, he implicitly used what has later become known as Gödel–Dummett intermediate logic (or Gödel fuzzy logic).
